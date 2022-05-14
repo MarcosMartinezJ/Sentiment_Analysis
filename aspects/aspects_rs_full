@@ -1,0 +1,482 @@
+aspect,term
+products,product
+products,gel
+products,lotion
+products,soap
+products,wax
+products,waxing
+service,service
+service,serving
+service,attention
+service,attitude
+service,server
+skin,skin
+spa,spa
+spa,sauna
+spa,jacuzzi
+treatments,treatment
+treatments,care
+appetizers,appetizer
+appetizers,entree
+appetizers,starter
+asian,asian
+asian,curry
+asian,noodle
+asian,sushi
+bread,bread
+bread,roll
+breakfast,breakfast
+breakfast,morning
+breakfast,toast
+breakfast,moorning meal
+breakfast,moorning menu
+products,cargo
+products,lade
+products,lading
+products,freight
+products,load
+products,loading
+products,payload
+products,ship
+products,shipment
+products,consignment
+products,contraband
+products,contrabandist
+products,feature
+products,generic
+products,ironmongery
+products,irregular
+products,second
+products,line
+products,product line
+products,line of products
+products,line of merchandise
+products,business line
+products,line of business
+products,number
+products,refill
+products,release
+products,schlock
+products,shlock
+products,dreck
+products,software package
+products,software product
+products,stockist
+products,stock
+products,inventory
+products,top of the line
+products,yard goods
+products,piece goods
+products,merchandise
+products,ware
+products,produce
+products,product
+products,hydrogel
+products,gel
+products,colloidal gel
+products,after-shave
+products,after-shave lotion
+products,body lotion
+products,hand lotion
+products,toner
+products,lotion
+products,bar soap
+products,castile soap
+products,liquid soap
+products,saddle soap
+products,leather soap
+products,soap flakes
+products,soap powder
+products,built-soap powder
+products,washing powder
+products,soft soap
+products,green soap
+products,toilet soap
+products,face soap
+products,bath soap
+products,soapy
+products,soap
+products,saponify
+products,bayberry wax
+products,bayberry tallow
+products,beeswax
+products,candelilla wax
+products,carnauba wax
+products,carnauba
+products,ceresin
+products,ceruminous
+products,cerumen
+products,earwax
+products,floor wax
+products,gondang wax
+products,fig wax
+products,Japan wax
+products,Japan tallow
+products,montan wax
+products,paraffin
+products,paraffin wax
+products,pisang wax
+products,scale wax
+products,paraffin scale
+products,shellac wax
+products,lac wax
+products,ski wax
+products,spermaceti
+products,vegetable wax
+products,waxy
+products,wax
+products,waxing
+service,consulting service
+service,facility
+service,national service
+service,utility
+service,service
+service,breast
+service,white meat
+service,drink
+service,drumstick
+service,libation
+service,medallion
+service,oyster
+service,parson's nose
+service,pope's nose
+service,piece
+service,slice
+service,round
+service,round of drinks
+service,second joint
+service,thigh
+service,wing
+service,help
+service,helping
+service,portion
+service,serve
+service,serving
+service,attentive
+service,attentiveness
+service,heed
+service,regard
+service,paying attention
+service,clock-watching
+service,ear
+service,eye
+service,notice
+service,observe
+service,observation
+service,observant
+service,observance
+service,attend
+service,attention
+service,attending
+service,credence
+service,accept
+service,acceptance
+service,culture
+service,defensive
+service,defensive attitude
+service,disrespect
+service,hardball
+service,high horse
+service,incline
+service,inclination
+service,dispose
+service,disposition
+service,tendentious
+service,tendencious
+service,tend
+service,tendency
+service,intolerant
+service,intolerance
+service,irreverent
+service,irreverence
+service,mental
+service,mentality
+service,outlook
+service,mindset
+service,mind-set
+service,orientation
+service,paternalistic
+service,paternalism
+service,position
+service,stand
+service,stance
+service,posture
+service,respect
+service,esteem
+service,reverential
+service,reverent
+service,reverence
+service,revere
+service,southernism
+service,tolerant
+service,tolerance
+service,attitude
+service,mental attitude
+service,carhop
+service,counterperson
+service,counterwoman
+service,counterman
+service,sommelier
+service,wine waiter
+service,wine steward
+service,waitress
+service,wait
+service,waiter
+service,server
+skin,buff
+skin,cuticle
+skin,dewlap
+skin,hangnail
+skin,agnail
+skin,investment
+skin,prepuce
+skin,foreskin
+skin,scalp
+skin,skin graft
+skin,thick skin
+skin,skinny
+skin,skin
+skin,tegument
+skin,cutaneal
+skin,cutis
+spa,watering place
+spa,watering hole
+spa,spa
+spa,sauna
+spa,sweat room
+treatments,acupressure
+treatments,G-Jo
+treatments,shiatsu
+treatments,acupuncture
+treatments,stylostixis
+treatments,autogenic therapy
+treatments,autogenic training
+treatments,autogenics
+treatments,chiropractic
+treatments,detoxify
+treatments,detoxification
+treatments,foment
+treatments,fomentation
+treatments,hydropathy
+treatments,hydrotherapy
+treatments,massage
+treatments,medical care
+treatments,medical aid
+treatments,modality
+treatments,naprapathy
+treatments,naturopathy
+treatments,orthodontic treatment
+treatments,orthoptic
+treatments,orthoptist
+treatments,orthoptics
+treatments,osteoclasis
+treatments,osteopathist
+treatments,osteopathy
+treatments,rest-cure
+treatments,treat
+treatments,treatment
+treatments,intervention
+treatments,babysitting
+treatments,baby sitting
+treatments,dental care
+treatments,faith healing
+treatments,faith cure
+treatments,first aid
+treatments,hair care
+treatments,haircare
+treatments,hairdressing
+treatments,healthcare
+treatments,health care
+treatments,incubate
+treatments,incubation
+treatments,livery
+treatments,manicurist
+treatments,manicure
+treatments,maternalistic
+treatments,maternalism
+treatments,nourish
+treatments,nourishment
+treatments,nurse
+treatments,nursing
+treatments,nurture
+treatments,nurturance
+treatments,pedicure
+treatments,personal care
+treatments,pet sitting
+treatments,skin care
+treatments,skincare
+treatments,tender loving care
+treatments,TLC
+treatments,tree surgery
+treatments,care
+treatments,attend
+treatments,attention
+treatments,aid
+treatments,tend
+treatments,tending
+appetizers,antipasto
+appetizers,canape
+appetizers,cocktail
+appetizers,crudites
+appetizers,hors d'oeuvre
+appetizers,appetizer
+appetizers,appetiser
+appetizers,starter
+appetizers,plate
+appetizers,entree
+appetizers,main course
+appetizers,kick-start
+appetizers,kick starter
+appetizers,kick start
+appetizers,self-starter
+appetizers,starter motor
+appetizers,starting motor
+asian,Afghan
+asian,Afghanistani
+asian,Altaic
+asian,Armenian
+asian,Bangladeshi
+asian,Bengali
+asian,Bhutanese
+asian,Bhutani
+asian,Burmese
+asian,Byzantine
+asian,Cambodian
+asian,Kampuchean
+asian,Chinese
+asian,coolie
+asian,cooly
+asian,East Indian
+asian,Eurasian
+asian,Hindu
+asian,Hindoo
+asian,Hindustani
+asian,Hmong
+asian,Miao
+asian,Iberian
+asian,Indian
+asian,Indonesian
+asian,Irani
+asian,Iranian
+asian,Persian
+asian,Iraqi
+asian,Iraki
+asian,Israeli
+asian,Israelite
+asian,Japanese
+asian,Nipponese
+asian,Jordanian
+asian,Kazakhstani
+asian,Korean
+asian,Kurd
+asian,Kuwaiti
+asian,Lao
+asian,Laotian
+asian,Lebanese
+asian,Malay
+asian,Malayan
+asian,Malaysian
+asian,Maldivian
+asian,Maldivan
+asian,Mongoloid
+asian,Nepalese
+asian,Nepali
+asian,oriental
+asian,Oriental
+asian,oriental person
+asian,Pakistani
+asian,Parthian
+asian,Sherpa
+asian,Singaporean
+asian,Sinhalese
+asian,Singhalese
+asian,Sri Lankan
+asian,Syrian
+asian,Taiwanese
+asian,Tajik
+asian,Tadzhik
+asian,Thai
+asian,Tai
+asian,Siamese
+asian,Tibetan
+asian,Timorese
+asian,Trojan
+asian,Dardan
+asian,Dardanian
+asian,Turki
+asian,Vietnamese
+asian,Annamese
+asian,Asian
+asian,Asiatic
+asian,lamb curry
+asian,curry
+asian,egg noodle
+asian,noodle
+asian,sushi
+bread,anadama bread
+bread,bap
+bread,barmbrack
+bread,breadstick
+bread,bread-stick
+bread,brown bread
+bread,Boston brown bread
+bread,bun
+bread,roll
+bread,caraway seed bread
+bread,challah
+bread,hallah
+bread,cinnamon bread
+bread,cracked-wheat bread
+bread,cracker
+bread,crouton
+bread,dark bread
+bread,whole wheat bread
+bread,whole meal bread
+bread,brown bread
+bread,English muffin
+bread,flatbread
+bread,garlic bread
+bread,gluten bread
+bread,Host
+bread,loaf of bread
+bread,loaf
+bread,matzo
+bread,matzoh
+bread,matzah
+bread,unleavened bread
+bread,nan
+bread,naan
+bread,onion bread
+bread,quick bread
+bread,raisin bread
+bread,rye bread
+bread,salt-rising bread
+bread,simnel
+bread,sour bread
+bread,sourdough bread
+bread,toast
+bread,wafer
+bread,white bread
+bread,light bread
+bread,bread
+bread,breadstuff
+bread,staff of life
+bread,wallow
+bread,axial rotation
+bread,axial motion
+breakfast,continental breakfast
+breakfast,petit dejeuner
+breakfast,power breakfast
+breakfast,breakfast
+breakfast,morning
+breakfast,morn
+breakfast,morning time
+breakfast,forenoon
+breakfast,cinnamon toast
+breakfast,Melba toast
+breakfast,orange toast
+breakfast,zwieback
+breakfast,rusk
+breakfast,Brussels biscuit
+breakfast,twice-baked bread
+breakfast,toast

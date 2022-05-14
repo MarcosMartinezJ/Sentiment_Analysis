@@ -1,0 +1,356 @@
+album,album
+album,albums
+album,disc
+album,discs
+casting,casting
+casting,actor
+casting,actors
+casting,actress
+casting,actresses
+casting,acting
+casting,interpretation
+casting,interpretations
+casting,portrayal
+casting,portrayals
+characters,character
+characters,characters
+characters,role
+characters,roles
+characters,protagonist
+characters,protagonists
+characters,ally
+characters,allies
+characters,heroe
+characters,heroes
+characters,enemy
+characters,enemies
+characters,villain
+characters,villains
+costumes,costume
+costumes,costumes
+costumes,costuming
+costumes,art direction
+costumes,art directions
+costumes,art director
+costumes,art directors
+costumes,art-direction
+costumes,art-directions
+costumes,art-director
+costumes,art-directors
+costumes,make up
+costumes,makeup
+costumes,make-up
+drums,drum
+drums,drums
+drums,drummer
+drums,drummers
+drums,drummer player
+drums,drummer players
+drums,drumming
+dynamics,dynamics
+dynamics,loudness
+ending,ending
+ending,endings
+ending,closing
+ending,closure
+ending,closures
+ending,completion
+ending,completions
+ending,conclusion
+ending,finale
+ending,finales
+guitars,guitar
+guitars,guitars
+guitars,guitar instrumental
+guitars,guitar instrumentals
+guitars,guitar player
+guitars,guitar players
+guitars,guitarist
+guitars,guitarists
+harmony,harmony
+harmony,harmonies
+harmony,chord
+harmony,chords
+harmony,consonance
+harmony,consonances
+harmony,dissonance
+harmony,dissonances
+harmony,progression
+harmony,progressions
+harmony,tonality
+harmony,tonalities
+instruments,instrument
+instruments,instruments
+instruments,instrument performance
+instruments,instrument performances
+instruments,instrumentalism
+instruments,instrumentalisms
+instruments,instrumentation
+instruments,instrumentations
+lyrics,lyric
+lyrics,lyrics
+lyrics,songwriting
+melody,melody
+melody,melodies
+melody,crescendo
+melody,crescendos
+melody,decrescendo
+melody,decrescendos
+music_group,group
+music_group,groups
+music_group,band
+music_group,bands
+music_group,ensemble
+music_group,ensembles
+music_group,orchestra
+music_group,orchestras
+music_style,music style
+music_style,music styles
+music_style,musical style
+music_style,musical styles
+music_style,musical-style
+music_style,musical-styles
+music_style,music-style
+music_style,music-styles
+music_style,style
+music_style,styles
+musician,artist
+musician,artists
+musician,composer
+musician,composers
+musician,instrumentalist
+musician,instrumentalists
+musician,musician
+musician,musicians
+musician,player
+musician,players
+musician,song writer
+musician,song writers
+musician,songwriter
+musician,songwriters
+percussion,percussion
+percussion,percussions
+percussion,percussion instrument
+percussion,percussion instruments
+performance,performance
+performance,performances
+piano,piano
+piano,pianos
+piano,piano instrumental
+piano,piano instrumentals
+piano,piano player
+piano,piano players
+piano,pianist
+piano,pianists
+picture,picture
+picture,pictures
+picture,color
+picture,colors
+picture,colour
+picture,colours
+picture,image
+picture,images
+picture,light
+picture,lighting
+picture,lights
+price,price
+price,prices
+price,pricing
+price,budget
+price,budgets
+price,cost
+price,costs
+price,fee
+price,fees
+recording,recording
+recording,recordings
+recording,record
+recording,records
+rhythm,beats
+rhythm,cadence
+rhythm,cadences
+rhythm,pacing
+rhythm,polyrhythm
+rhythm,rhythm
+rhythm,rhythmic score
+rhythm,rhythmic scores
+rhythm,rhythms
+rhythm,syncopation
+rhythm,tempo
+rhythm,tempos
+scenario,scenario
+scenario,scenarios
+scenario,sceneries
+scenario,scenery
+scenario,sets
+scenario,setting
+scenario,settings
+singer,singer
+singer,singers
+singer,singer song writer
+singer,singer song writers
+singer,singer songwriter
+singer,singer songwriters
+singer,singer-song writer
+singer,singer-song writers
+singer,singer-songwriter
+singer,singer-songwriters
+singer,singing
+singer,vocal
+singer,vocals
+singer,vocalist
+singer,vocalists
+singer,voice
+singer,voices
+singer,choir
+singer,choirs
+song,song
+song,songs
+song,composition
+song,compositions
+song,single
+song,singles
+song,soundtrack
+song,soundtracks
+song,track
+song,tracks
+sound,sound
+sound,sounds
+sound,sound effect
+sound,sound effects
+sound,sound-effect
+sound,sound-effects
+sound,sounding
+sound,audio
+sound,audio effect
+sound,audio effects
+sound,audio-effect
+sound,audio-effects
+sound,audios
+sound,digital sound
+sound,digital sounds
+sound,digital-sound
+sound,digital-sounds
+start,start
+start,starts
+start,starting
+start,begining
+start,intro
+start,intros
+start,introduction
+start,introductions
+start,opener
+start,opening
+start,preamble
+start,preambles
+start,presentation
+start,presentations
+story,story
+story,stories
+story,story line
+story,story lines
+story,story telling
+story,storyline
+story,story-line
+story,storylines
+story,story-lines
+story,storytelling
+story,story-telling
+story,narration
+story,narrations
+story,narrative
+story,narratives
+story,plot
+story,plots
+story,screen play
+story,screen plays
+story,screenplay
+story,screen-play
+story,screenplays
+story,screen-plays
+strings,string
+strings,strings
+strings,string instrument
+strings,string instruments
+texture,texture
+texture,textures
+texture,homophonic
+texture,monophonic
+texture,polyphonic
+theme,theme
+theme,themes
+theme,matter
+theme,matters
+theme,message
+theme,messages
+theme,topic
+theme,topics
+timbre,timbre
+timbre,timbres
+timbre,register
+timbre,registers
+timbre,tone
+timbre,tones
+trumpets,trumpet
+trumpets,trumpets
+trumpets,trumpet player
+trumpets,trumpet players
+trumpets,trumpeter
+trumpets,trumpeters
+trumpets,trumpetist
+trumpets,trumpetists
+video,video
+video,videos
+video,video clip
+video,video clips
+video,videoclip
+video,videoclips
+video,music video
+video,music videos
+visual_style,visual
+visual_style,visuals
+visual_style,visual-style
+visual_style,visual-styles
+visual_style,visual appearance
+visual_style,visual appearances
+visual_style,visual story telling
+visual_style,visual storytelling
+visual_style,visual story-telling
+visual_style,visual style
+visual_style,visual styles
+visual_style,visual-appearance
+visual_style,visual-appearances
+visual_style,appearance
+visual_style,appearances
+visual_style,art style
+visual_style,art styles
+visual_style,art-style
+visual_style,art-styles
+visual_style,graphic story telling
+visual_style,graphic storytelling
+visual_style,graphic story-telling
+visual_effects,visuals
+visual_effects,visual effect
+visual_effects,visual effects
+visual_effects,visual-effect
+visual_effects,visual-effects
+visual_effects,digital effect
+visual_effects,digital effects
+visual_effects,digital-effect
+visual_effects,digital-effects
+visual_effects,special effect
+visual_effects,special effects
+visual_effects,special-effect
+visual_effects,special-effects
+winds,wind
+winds,winds
+winds,wind instrument
+winds,wind instruments
+winds,wind player
+winds,wind players
+winds,woodwind
+winds,woodwind instrument
+winds,woodwind instruments
+winds,woodwind player
+winds,woodwind players
+winds,woodwinds
